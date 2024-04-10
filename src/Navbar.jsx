@@ -14,9 +14,9 @@ function Navbar() {
       <ul>
         <li><a className="active" href="App.jsx">Home</a></li>
         <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Feedback</a></li>
+        <li><a href="#">Our Team</a></li>
+        <li><a href="#">Our Events</a></li>
+        <li><a href="#">Contact Us</a></li>
       </ul>
     </nav>
   );
